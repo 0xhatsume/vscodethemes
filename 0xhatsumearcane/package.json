@@ -1,0 +1,25 @@
+{
+    "name": "0xhatsumearcane",
+    "displayName": "0xhatsumeArcane",
+    "description": "Arcane styled color theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/0xhatsume/vscodethemes"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arcane Styled Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Arcane Styled Theme-color-theme.json"
+            }
+        ]
+    }
+}
